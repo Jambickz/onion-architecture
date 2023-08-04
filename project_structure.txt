@@ -1,0 +1,20 @@
+.
+├── application
+├── domain
+│   └── user
+├── infrastructure
+│   ├── api
+│   │   └── user
+│   ├── config
+│   │   └── di
+│   │       └── container.js
+│   ├── db
+│   │   └── user
+│   ├── helpers
+│   └── services
+├── package.json
+├── package-lock.json
+├── project_structure.txt
+└── server.js
+
+13 directories, 5 files
